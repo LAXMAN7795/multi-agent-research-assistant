@@ -1,0 +1,8 @@
+[server]
+fileWatcherType = "poll"
+
+[client]
+showErrorDetails = true
+
+[logger]
+level = "info"

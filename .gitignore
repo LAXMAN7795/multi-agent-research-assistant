@@ -1,0 +1,9 @@
+ResearchAgent/
+.env
+__pycache__/
+*.pyc
+data/chroma_db/
+data/reports/
+data/research_history.db
+logs/
+.streamlit/secrets.toml

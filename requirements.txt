@@ -1,0 +1,16 @@
+langgraph
+langchain
+langchain-community
+langchain-groq
+langchain-google-genai
+chromadb
+sentence-transformers
+tavily-python
+ddgs
+guardrails-ai
+streamlit
+python-dotenv
+pydantic
+langchain-text-splitters 
+langchain-chroma 
+langchain-huggingface
