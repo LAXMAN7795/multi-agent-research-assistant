@@ -1,5 +1,7 @@
 # LangGraph Research Agent
 
+**🔗 Live demo:** https://multi-agent-research-assistant-esohnhn9bvmcdrdffqovkz.streamlit.app/
+
 A multi-agent AI research assistant that plans, searches, retrieves, synthesizes, and validates its own output before answering. Built entirely on free-tier infrastructure — no paid API keys required.
 
 Ask it a research question, and it doesn't just generate an answer from memory. It breaks the question into sub-tasks, searches the live web and a local document store for each one, writes a structured report from what it actually found, then runs that report back through an LLM-as-judge to check whether every claim is actually supported by the evidence — looping back to re-research if it isn't.
