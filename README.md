@@ -1,4 +1,4 @@
-# LangGraph Research Agent
+# Multi Agnent Research Agent
 
 **🔗 Live demo:** https://multi-agent-research-assistant-esohnhn9bvmcdrdffqovkz.streamlit.app/
 
