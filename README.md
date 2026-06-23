@@ -1,4 +1,4 @@
-# Multi Agnent Research Agent
+# Multi Agent Research Assistant
 
 **🔗 Live demo:** https://multi-agent-research-assistant-esohnhn9bvmcdrdffqovkz.streamlit.app/
 
